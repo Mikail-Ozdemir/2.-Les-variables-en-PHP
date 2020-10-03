@@ -1,0 +1,13 @@
+<?php
+
+$nameOfMovie = ' Indiana Jones and the Last Crusade, ';
+
+echo "$nameOfMovie";
+
+if ($watchedMovie === true) echo "Movie is watched"; else{
+    echo "Movie is not watched,";
+}
+$yearOfMovie = 1989 ;
+$imdbNote = 8.9;
+
+echo " $yearOfMovie, $imdbNote";
