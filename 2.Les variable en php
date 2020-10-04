@@ -3,7 +3,7 @@
 $nameOfMovie = ' Indiana Jones and the Last Crusade, ';
 
 echo "$nameOfMovie";
-!watchedMovie = true;
+$watchedMovie = true;
 if ($watchedMovie === true) echo "Movie is watched"; else{
     echo "Movie is not watched,";
 }
